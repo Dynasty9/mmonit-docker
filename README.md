@@ -1,2 +1,2 @@
 # mmonit-docker
-A mmonit-docker continer
+A mmonit-docker container
